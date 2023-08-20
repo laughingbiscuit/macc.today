@@ -12,8 +12,8 @@ This would be a useful tool for me, so I am considering this a hobby project.
     ---------------------------------------------
    |                      |                     |
 web form         facebook api/web         recommendations
-submissions          scraping
-
+submissions          scraping               from locals
+from venues
 ```
 
 ## Dev Log
