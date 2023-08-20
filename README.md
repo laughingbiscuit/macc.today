@@ -35,3 +35,4 @@ Actions on cron -> Shell Script to pull data/pandoc gen site  --- Archive
 - Registered for a Facebook account and immediately blocked by bot detection. Pending manual approval.
 - Purchased `macc.today` domain
 - Created Git repo
+- Templated the site with markdown, envsubst, pandoc and added [holiday](https://holidaycss.js.org/) classless css
