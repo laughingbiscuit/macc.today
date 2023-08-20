@@ -21,10 +21,9 @@ from venues
 KISS and free
 
 ```
-
                        GitHub Pages Site
                                 |
-Actions on cron -> Shell Script to generate data  --- Archive
+Actions on cron -> Shell Script to pull data/pandoc gen site  --- Archive
                                 |
                       Flat file holding events
 ```
