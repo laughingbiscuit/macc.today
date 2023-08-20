@@ -16,6 +16,19 @@ submissions          scraping               from locals
 from venues
 ```
 
+## HLSA
+
+KISS and free
+
+```
+
+                       GitHub Pages Site
+                                |
+Actions on cron -> Shell Script to generate data  --- Archive
+                                |
+                      Flat file holding events
+```
+
 ## Dev Log
 
 ### 20/08/23
