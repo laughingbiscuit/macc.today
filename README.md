@@ -36,3 +36,4 @@ Actions on cron -> Shell Script to pull data/pandoc gen site  --- Archive
 - Purchased `macc.today` domain
 - Created Git repo
 - Templated the site with markdown, envsubst, pandoc and added [holiday](https://holidaycss.js.org/) classless css
+- Generated logo on Dall-E with prompt: "pouring a tin of treacle on a ball of silk  on a cobbled street"
